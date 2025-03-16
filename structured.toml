@@ -1,0 +1,5 @@
+[deployment]
+project_name = "Finance Data Assessment"
+entrypoint = "hello.py"
+github_repo = "Praxxav/Preswald_assessment"
+api_key = "prswld-fbe20deb-a38f-419e-82e6-4e286ad84a39"
